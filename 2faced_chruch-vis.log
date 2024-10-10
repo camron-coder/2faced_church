@@ -4,7 +4,7 @@
     "nocolor" was set to "1" (from command line)
 
 LoadBSPFile: '2faced_chruch.bsp'
-BSP is version Quake BSP bsp29
+BSP is version Quake BSP2 bsp2
 INFO: using built-in palette.
 ************ ERROR ************
 LoadPrtFile: unknown header/empty portal file 2faced_chruch.prt

@@ -7,84 +7,86 @@ Input file: C:\Users\fatgu\Desktop\quake-leveldesign-starterkit-20240916-windows
 Output file: C:\Users\fatgu\Desktop\quake-leveldesign-starterkit-20240916-windows\2faced_church\2faced_chruch.bsp
 
 INFO: using built-in palette.
-      2 entities
-     14 unique textures
-    383 texinfos
-    514 unique planes
+       10 entities
+       18 unique textures
+      991 texinfos
+    1,272 unique planes
 
 INFO: world extents calculated to 6582 units
-    101 brushes
-    645 sides
-    228 side bevels
+      293 brushes
+    1,799 sides
+      700 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    93 SOLID brushes
-    93 brushes total
-    591 visible sides
-INFO: calculating BSP for 93 brushes with 591 sides
-     93 brushes
-    591 visible faces
-    1,910 nodes
-    1,241 expensive split nodes
-      669 mid-split nodes
-    1,911 leaves
-      784 EMPTY leafs
-    1,127 SOLID leafs
-    1,911 leafs total
-    32 max tree height
+    224 SOLID brushes
+    224 brushes total
+    1,359 visible sides
+INFO: calculating BSP for 224 brushes with 1359 sides
+      224 brushes
+    1,359 visible faces
+    3,467 nodes
+    2,688 expensive split nodes
+      779 mid-split nodes
+    3,468 leaves
+    1,610 EMPTY leafs
+    1,858 SOLID leafs
+    3,468 leafs total
+    34 max tree height
     15 avg tree height
-    71 tiny portals
-    7,988 tree portals
+    110 tiny portals
+    15,080 tree portals
 WARNING: Reached occupant "info_player_start" at (-416 288 72), no filling performed.
 Leak file written to 2faced_chruch.pts
             8 portals written to 2faced_chruch.leak.prt
-    71 tiny portals
-    7,988 tree portals
+    110 tiny portals
+    15,080 tree portals
 WARNING: 2 sides not found (use -verbose to display)
-    1,843 sides visible
-    1,843 makefaces
-      343 merged
-      740 subdivided
-    515 nodes pruned
-      784 EMPTY leafs
-      612 SOLID leafs
-    1,396 leafs total
-    32 max tree height
-    14 avg tree height
-        6 edges degenerated
-    1,634 edges added by tjunctions
-    2,109 faces optimized through MWT
-    5,885 triangles computed from MWT
-      413 faces created via optimization of MWT triangles
-    5,739 edges
-    2,653 faces
+    3,965 sides visible
+    3,965 makefaces
+      726 merged
+      828 subdivided
+    717 nodes pruned
+    1,610 EMPTY leafs
+    1,141 SOLID leafs
+    2,751 leafs total
+    31 max tree height
+    15 avg tree height
+         2 edges degenerated
+     3,176 edges added by tjunctions
+     3,644 faces optimized through MWT
+    10,535 triangles computed from MWT
+       828 faces created via optimization of MWT triangles
+    10,530 edges
+     4,895 faces
 Processing hull 1...
 WARNING: Reached occupant "info_player_start" at (-416 288 72), no filling performed.
 Processing hull 2...
 WARNING: Reached occupant "info_player_start" at (-416 288 72), no filling performed.
 WARNING: worldspawn at 0 0 0 has long value for key wad (length 231 >= 127)
-Writing 2faced_chruch.bsp as Quake BSP bsp29
+LIMITS EXCEEDED ON dclipnode_t::children
+NOTE: limits exceeded for Quake BSP - switching to Quake BSP2
+Writing 2faced_chruch.bsp as Quake BSP2 bsp2
 Wrote 2faced_chruch.bsp
 
 count   lump name    byte size 
       1 models               64
-   1006 planes            20120
-   2940 vertexes          35280
-   1395 nodes             33480
-    262 texinfos          10480
-   2653 faces             53060
-  18424 clipnodes        147392
-    785 leafs             21980
-   2939 marksurfaces       5878
-   5740 edges             22960
-  11328 surfedges         45312
-     14 textures         218180
+   2248 planes            44960
+   5335 vertexes          64020
+   2750 nodes            121000
+    540 texinfos          21600
+   4895 faces            137060
+  71551 clipnodes        858612
+   1611 leafs             70884
+   5631 marksurfaces      22524
+  10531 edges             84248
+  20750 surfedges         83000
+     18 textures         240116
         lightdata             0
         visdata               0
         entdata             362
 
-0.314s seconds elapsed
+0.954s seconds elapsed
 
 
