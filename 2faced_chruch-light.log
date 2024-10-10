@@ -3,8 +3,9 @@ LoadBSPFile: '2faced_chruch.bsp'
 BSP is version Quake BSP2 bsp2
 INFO: using built-in palette.
 img::ConvertTextures: WARNING: invalid size data for 
+img::ConvertTextures: WARNING: Texture  duplicated
 Loading extended texinfo flags from 2faced_chruch.texinfo.json...
-2 entities read, 0 are lights.
+22 entities read, 0 are lights.
 
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
@@ -13,7 +14,7 @@ DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	0 sky faces
-	4895 solid faces
+	5534 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -26,7 +27,7 @@ Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing 2faced_chruch.bsp as Quake BSP2 bsp2
-0.130s seconds elapsed
+0.155s seconds elapsed
 0 empty lightmaps
 
 
