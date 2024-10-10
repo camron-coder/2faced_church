@@ -1,0 +1,82 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Users\fatgu\Desktop\quake-leveldesign-starterkit-20240916-windows\2faced_church\2faced_chruch-compile.map
+Output file: C:\Users\fatgu\Desktop\quake-leveldesign-starterkit-20240916-windows\2faced_church\2faced_chruch.bsp
+
+INFO: using built-in palette.
+     2 entities
+     2 unique textures
+    16 texinfos
+    24 unique planes
+
+INFO: world extents calculated to 7782 units
+     3 brushes
+    20 sides
+     2 side bevels
+
+            0 texture frames added
+WARNING: unable to find texture skip
+Processing hull 0...
+    3 SOLID brushes
+    3 brushes total
+    20 visible sides
+INFO: calculating BSP for 3 brushes with 20 sides
+     3 brushes
+    20 visible faces
+    14 nodes
+    14 mid-split nodes
+    15 leaves
+    12 EMPTY leafs
+     3 SOLID leafs
+    15 leafs total
+    9 max tree height
+    6 avg tree height
+    72 tree portals
+WARNING: Reached occupant "info_player_start" at (-416 288 72), no filling performed.
+Leak file written to 2faced_chruch.pts
+            2 portals written to 2faced_chruch.leak.prt
+    72 tree portals
+    16 sides visible
+    16 makefaces
+    98 subdivided
+    12 EMPTY leafs
+     3 SOLID leafs
+    15 leafs total
+    9 max tree height
+    6 avg tree height
+     80 edges added by tjunctions
+    114 faces optimized through MWT
+    312 triangles computed from MWT
+     19 faces created via optimization of MWT triangles
+    289 edges
+    133 faces
+Processing hull 1...
+WARNING: No entities in empty space -- no filling performed (hull 1)
+Processing hull 2...
+WARNING: No entities in empty space -- no filling performed (hull 2)
+Writing 2faced_chruch.bsp as Quake BSP bsp29
+Wrote 2faced_chruch.bsp
+
+count   lump name    byte size 
+      1 models               64
+     37 planes              740
+    158 vertexes           1896
+     14 nodes               336
+     15 texinfos            600
+    133 faces              2660
+     44 clipnodes           352
+     13 leafs               364
+    133 marksurfaces        266
+    290 edges              1160
+    578 surfedges          2312
+      2 textures          21812
+        lightdata             0
+        visdata               0
+        entdata             244
+
+0.012s seconds elapsed
+
+
