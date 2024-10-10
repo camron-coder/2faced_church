@@ -13,7 +13,7 @@ DecompressAllVis: invalid visofs for leaf 0
 Embree_TraceInit: Embree version: 3.12.1
 Embree_TraceInit: 
 	0 sky faces
-	1161 solid faces
+	1582 solid faces
 	0 filtered faces
 	0 shadow-casting skip faces
 SetupLights: 0 initial lights
@@ -26,7 +26,7 @@ Lighting Completed.
 
 0 switchable light styles (32 max)
 Writing 2faced_chruch.bsp as Quake BSP bsp29
-0.034s seconds elapsed
+0.046s seconds elapsed
 0 empty lightmaps
 
 
