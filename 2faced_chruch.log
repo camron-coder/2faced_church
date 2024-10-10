@@ -7,76 +7,82 @@ Input file: C:\Users\fatgu\Desktop\quake-leveldesign-starterkit-20240916-windows
 Output file: C:\Users\fatgu\Desktop\quake-leveldesign-starterkit-20240916-windows\2faced_church\2faced_chruch.bsp
 
 INFO: using built-in palette.
-     2 entities
-     2 unique textures
-    16 texinfos
-    24 unique planes
+      2 entities
+     10 unique textures
+    169 texinfos
+    142 unique planes
 
-INFO: world extents calculated to 7782 units
-     3 brushes
-    20 sides
-     2 side bevels
+INFO: world extents calculated to 6582 units
+     40 brushes
+    236 sides
+     22 side bevels
 
             0 texture frames added
 WARNING: unable to find texture skip
 Processing hull 0...
-    3 SOLID brushes
-    3 brushes total
-    20 visible sides
-INFO: calculating BSP for 3 brushes with 20 sides
-     3 brushes
-    20 visible faces
-    14 nodes
-    14 mid-split nodes
-    15 leaves
-    12 EMPTY leafs
-     3 SOLID leafs
-    15 leafs total
-    9 max tree height
-    6 avg tree height
-    72 tree portals
+    35 SOLID brushes
+    35 brushes total
+    206 visible sides
+INFO: calculating BSP for 35 brushes with 206 sides
+     35 brushes
+    206 visible faces
+    427 nodes
+    226 expensive split nodes
+    201 mid-split nodes
+    428 leaves
+    193 EMPTY leafs
+    235 SOLID leafs
+    428 leafs total
+    16 max tree height
+    11 avg tree height
+    1 tiny portals
+    1,760 tree portals
 WARNING: Reached occupant "info_player_start" at (-416 288 72), no filling performed.
 Leak file written to 2faced_chruch.pts
-            2 portals written to 2faced_chruch.leak.prt
-    72 tree portals
-    16 sides visible
-    16 makefaces
-    98 subdivided
-    12 EMPTY leafs
-     3 SOLID leafs
-    15 leafs total
-    9 max tree height
-    6 avg tree height
-     80 edges added by tjunctions
-    114 faces optimized through MWT
-    312 triangles computed from MWT
-     19 faces created via optimization of MWT triangles
-    289 edges
-    133 faces
+            5 portals written to 2faced_chruch.leak.prt
+    1 tiny portals
+    1,760 tree portals
+    426 sides visible
+    426 makefaces
+     58 merged
+    596 subdivided
+    94 nodes pruned
+    193 EMPTY leafs
+    141 SOLID leafs
+    334 leafs total
+    16 max tree height
+    10 avg tree height
+      726 edges added by tjunctions
+      960 faces optimized through MWT
+    2,648 triangles computed from MWT
+      197 faces created via optimization of MWT triangles
+    2,524 edges
+    1,161 faces
 Processing hull 1...
-WARNING: No entities in empty space -- no filling performed (hull 1)
+WARNING: Reached occupant "info_player_start" at (-416 288 72), no filling performed.
 Processing hull 2...
-WARNING: No entities in empty space -- no filling performed (hull 2)
+WARNING: Reached occupant "info_player_start" at (-416 288 72), no filling performed.
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 231 >= 127)
 Writing 2faced_chruch.bsp as Quake BSP bsp29
 Wrote 2faced_chruch.bsp
 
 count   lump name    byte size 
       1 models               64
-     37 planes              740
-    158 vertexes           1896
-     14 nodes               336
-     15 texinfos            600
-    133 faces              2660
-     44 clipnodes           352
-     13 leafs               364
-    133 marksurfaces        266
-    290 edges              1160
-    578 surfedges          2312
-      2 textures          21812
+    200 planes             4000
+   1287 vertexes          15444
+    333 nodes              7992
+    106 texinfos           4240
+   1161 faces             23220
+   4308 clipnodes         34464
+    194 leafs              5432
+   1172 marksurfaces       2344
+   2525 edges             10100
+   4974 surfedges         19896
+     10 textures         163604
         lightdata             0
         visdata               0
-        entdata             244
+        entdata             362
 
-0.012s seconds elapsed
+0.077s seconds elapsed
 
 
