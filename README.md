@@ -7,4 +7,5 @@ You can go through my creative process when making this map below.
 1.[preproduction](https://github.com/user-attachments/files/17424531/Quake.docx)
 2.[Blockout](Blockout.md)
 3.[Playtesting and iterations](Playtest.md)
-4.[textures and lighting](TL.md)
+4.[textures](Textures.md)
+5.[Lighting](Lighting.md)
