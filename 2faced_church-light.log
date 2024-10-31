@@ -1,0 +1,64 @@
+---- light / ericw-tools 2.0.0-alpha8-26-ged62ec10 ----
+LoadBSPFile: '2faced_church.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+Loading extended texinfo flags from 2faced_church.texinfo.json...
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \.
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \e
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \q
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \w
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \u
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \.
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \e
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \q
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \w
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \M
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \.
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \e
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \q
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \w
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \D
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \.
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \e
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \q
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \w
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \d
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \.
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \e
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \q
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \w
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \a
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \.
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \e
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \q
+WARNING: 2faced_church.bsp[line 3]: Unrecognised string escape - \Q
+74 entities read, 51 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+DecompressAllVis: invalid visofs for leaf 0
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	58 sky faces
+	6028 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 51 initial lights
+SetupLights: 51 after surface lights
+SetupLights: 51 after jittering
+Final count: 51 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 95344
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing 2faced_church.bsp as Quake BSP bsp29
+0.210s seconds elapsed
+0 empty lightmaps
+
+
